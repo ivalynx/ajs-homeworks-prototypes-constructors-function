@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/m51iu74b9jq57rnf?svg=true)](https://ci.appveyor.com/project/ivalynx/ajs-homeworks-prototypes-constructors-function)
